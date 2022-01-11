@@ -1,7 +1,6 @@
 {
   "homepage": "https://developerfolio.js.org/",
   "name": "saadpasta.github.io",
-  "start": "export HTTPS=true&&PORT=443&&SSL_CRT_FILE=/etc/letsencrypt/live/vignesh-ramakrishnan.co.in/fullchain.pem&&SSL_KEY_FILE=/etc/letsencrypt/live/vignesh-ramakrishnan.co.in/privkey.pemreact-scripts start",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
